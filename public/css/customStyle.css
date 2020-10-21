@@ -1,0 +1,12 @@
+.card_header{
+    font-weight: bold;
+}
+
+#price{
+    color: darkred;
+}
+
+.rayita{
+    border-right: solid 1px black;
+    margin-right: 9px;
+}
